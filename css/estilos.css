@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+    flex-wrap: wrap;
+}
+.container{
+    justify-content: center;
+    padding: 20px;
+}
+.nav{
+    flex-wrap: wrap;
+    padding: 10px;
+    display: flex;
+}
+
+
+.imagen1{
+    justify-content: center;
+    margin: 50px;
+}
+.img{
+    border-radius: 6px;
+}
+.a{
+    flex-wrap: wrap;
+}
+.dropdown{
+    justify-content: center;
+    padding: 10px;
+}
+.container5 >*{
+    justify-content: center;
+    padding: 6px;
+}
+body{
+    padding: 15px;
+}
+.div{
+    padding: 8px;
+}
+.formulario1{
+    margin: 1%;
+    padding: 5px;
+}
